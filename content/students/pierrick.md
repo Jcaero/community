@@ -43,7 +43,7 @@ projects:
     image: pierrick/projet_2.png
     link: https://openclassrooms-student-center.github.io/presentation/students/pierrick.html
     finished: true
-  - title: FrenchGame Factory !
+  - title: FrenchGame Factory!
     description: Création d’un jeu vidéo avec SWIFT.
     image: pierrick/projet_3.png
     link: https://www.github.com
